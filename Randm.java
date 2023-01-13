@@ -1,5 +1,5 @@
 import java.util.Random;
-class randm{
+public class Randm{
     public static void main(String a[]){
         Random num=new Random();
         Double ran=num.nextDouble(10);
